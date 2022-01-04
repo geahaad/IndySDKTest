@@ -91,3 +91,4 @@ iOSInjectionProject/
 
 # Ignore frameworks
 *.xcframework
+.DS_Store
